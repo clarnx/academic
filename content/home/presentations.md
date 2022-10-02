@@ -19,7 +19,7 @@ content:
   count: 5
   # Filter on criteria
   filters:
-      folders:
+    folders:
       - presentations
     author: ''
     category: ''
